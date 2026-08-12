@@ -4,4 +4,4 @@ I'm an entrepreneur, marketer, and software engineer, and the founder of [Screen
 
 I have spent more than 20 years in SEO and performance marketing, much of it building, ranking, and monetizing websites. In 2011, I co-founded Rontar, an ad tech platform for e-commerce and small businesses, and I remain a co-founder.
 
-[Personal website](https://oleksiivelykyi.com/) &middot; [Screenshot Scout](https://screenshotscout.com/) &middot; [LinkedIn](https://www.linkedin.com/in/oleksii-velykyi/) &middot; [X](https://x.com/oleksii_velykyi)
+[Personal website](https://oleksiivelykyi.com/) &middot; [X](https://x.com/oleksii_velykyi) &middot; [LinkedIn](https://www.linkedin.com/in/oleksii-velykyi/)
