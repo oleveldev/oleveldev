@@ -1,7 +1,9 @@
 # Oleksii Velykyi
 
-I'm an entrepreneur, marketer, and software engineer, and the founder of [Screenshot Scout](https://screenshotscout.com/), a screenshot API for developers that captures clean, production-ready screenshots of any URL with a single HTTP call. Screenshot Scout is now my full-time work.
+I'm an entrepreneur, marketer, and software engineer. I founded [Screenshot Scout](https://screenshotscout.com/), a screenshot API for developers that captures clean, production-ready screenshots of any URL with a single HTTP call. Screenshot Scout is now my full-time work.
 
-I have spent more than 20 years in SEO and performance marketing, much of it building, ranking, and monetizing websites. In 2011, I co-founded Rontar, an ad tech platform for e-commerce and small businesses, and I remain a co-founder.
+In 2011, I co-founded Rontar, a retargeting and native advertising company.
 
-[Personal website](https://oleksiivelykyi.com/) &middot; [X](https://x.com/oleksii_velykyi) &middot; [LinkedIn](https://www.linkedin.com/in/oleksii-velykyi/)
+I've spent more than 20 years in SEO and performance marketing, much of it on the affiliate side, where I built, ranked, and monetized websites. That experience shapes how I build products: I start with what people are already searching for, then look for markets where I have an edge. Screenshot Scout came out of exactly that process.
+
+[Website](https://oleksiivelykyi.com/) &middot; [X](https://x.com/oleksii_velykyi) &middot; [LinkedIn](https://www.linkedin.com/in/oleksii-velykyi/)
